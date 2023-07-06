@@ -35,3 +35,15 @@ https://telegra.ph/Blackbird---instrument-OSINT-dlya-poiska-uchetnyh-zapisej-11-
 #### OSINT инструмент для сбора информации о пользователях Discord
 
  https://github.com/V3ntus/darvester
+
+## Быстрое сканирование Google Dorks
+
+#### Данный OSINT проект собирает все возможные поисковые комбинации Google Dorks и позволяет найти информацию о конкретном веб-сайте: админ-панели, распространенные типы файлов и path traversal.
+
+ https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan
+
+## EagleEye
+
+#### Инструмент, который позволяет находить людей в социальных сетях по фото и предполагаемому имени.
+
+https://github.com/ThoughtfulDev/EagleEye
